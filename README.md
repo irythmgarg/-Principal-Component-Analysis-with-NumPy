@@ -1,5 +1,8 @@
 ![Image](https://github.com/user-attachments/assets/8ac140df-0a64-4ce1-8fcf-84b77226e9f0)
 
+[Coursera Link for Project](https://www.coursera.org/programs/data-science-elective-batch-of-2026-f30yc/projects/principal-component-analysis-numpy?source=search)
+
+
 Principal Component Analysis (PCA)
 Principal Component Analysis (PCA) is a dimensionality reduction technique used in machine learning, statistics, and data analysis. It transforms high-dimensional data into a lower-dimensional space while retaining as much variance (information) as possible.
 
